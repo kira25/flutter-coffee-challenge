@@ -2,11 +2,9 @@
 
 Design for coffee presentation
 
-<iframe width="360" height="601" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5b2zq0"></iframe></div><p><a href="https://imgflip.com/gif/5b2zq0"></a></p>
-
-
-
+<img src="https://res.cloudinary.com/hunt-lng/image/upload/v1622082155/20210526_212046_1_yuyebg.gif" width="240"/>
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
